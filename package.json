@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "proxy": "https://emproster-6bfc4cc3c2e4.herokuapp.com",
+  "proxy": "https://dpg-clc9rpug1b2c73esubrg-a.com",
   "private": true,
   "dependencies": {
     "@fullcalendar/daygrid": "^6.1.9",
